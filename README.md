@@ -1,5 +1,4 @@
 ## Hey Internet Surfer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
----
 You've stumbled upon the profile of Clay.
 <br>
 
