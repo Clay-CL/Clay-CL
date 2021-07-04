@@ -14,13 +14,8 @@ I'm a Google Developers [Certified Android Developer](https://www.credential.net
 - 🧠 Always wanted to explore and know more about AI and Neural networks. 
 - 🏗️ Very interested in <samp>R&D</samp>.
 
-<br>  
-
 ### Languages and Tools
-<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"> 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<br>
+<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <br>
 
 ### Hit me up @:
