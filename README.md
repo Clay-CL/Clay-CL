@@ -5,13 +5,10 @@ You've stumbled upon the profile of Clay.
 ### <samp>About Me </samp>
 <img align="right" src="https://s3.amazonaws.com/accredible-api-templates/1571853844708450.png" width="150" height="150"> 
 
-I'm a Google Developers [Certified Android Developer](https://www.credential.net/295ed91c-699e-41c0-bdb0-168e0af11e9d) and occasionally I work on fullstack projects. 
+- 🔨 Currently working at [Neuralzome Cybernetics](https://neuralzome.com/).
+- Very interested in Embodied AI
 
-- 🔨 Currently working at [Flo Mobility](https://flomobility.com/).
-- 🌿 I've recently garnered interest in contributing to open source projects. Big fan 💙 of Kotlin. 
-- 🌐 I Love how Internet of Things (IoT) works and am looking to build projects based on it.
-- 🧠 Always wanted to explore and know more about AI and Neural networks. 
-- 🏗️ Very interested in <samp>R&D</samp>.
+I'm also a Google Developers [Certified Android Developer](https://www.credential.net/295ed91c-699e-41c0-bdb0-168e0af11e9d) and occasionally I work on fullstack projects. 
 
 ### Languages and Tools
 <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-purple?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/Rust-0A0A0A?style=for-the-badge&logo=rust&logoColor=white"> 
