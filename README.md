@@ -6,7 +6,9 @@ You've stumbled upon the profile of Clay.
 <img align="right" src="https://s3.amazonaws.com/accredible-api-templates/1571853844708450.png" width="150" height="150"> 
 
 - 🔨 Currently working at [Neuralzome Cybernetics](https://neuralzome.com/).
-- Very interested in Embodied AI
+- I work with Embodied AI/Physical AI systems - primarily mobile robots and semi humanoids
+- I've designed and built scalable teleoperation stacks
+- Use docker a lot and worked with aws,gcp clouds
 
 I'm also a Google Developers [Certified Android Developer](https://www.credential.net/295ed91c-699e-41c0-bdb0-168e0af11e9d) and occasionally I work on fullstack projects. 
 
